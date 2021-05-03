@@ -2,7 +2,7 @@
 
 ## Back-End Developer (JAVA, Spring)
 
-
+Apaixonado por Java☕😍
 
 Atualmente procurando um job.
 
@@ -11,7 +11,7 @@ Aqui você encontra meus projetos 😁
 
 Long story short:
 
-🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
+🍕 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
 
 🌎 Confira meu [Linkedin](https://www.linkedin.com/in/leo-bambam/)
