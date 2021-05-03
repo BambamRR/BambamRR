@@ -3,15 +3,19 @@
 ## Back-End Developer (JAVA, Spring)
 
 
+
+Atualmente procurando um emprego.
+
+
 Long story short:
 
 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
 
-🌎 Check my [Linkedin](https://www.linkedin.com/in/leo-bambam/)
+🌎 Confira meu [Linkedin](https://www.linkedin.com/in/leo-bambam/)
 
 
-Feel free to reach out 💬
+Fique a vontade para trocar uma ideia 💬
 
 
 
