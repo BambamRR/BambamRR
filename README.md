@@ -4,7 +4,7 @@
 
 
 
-Atualmente procurando um emprego como dev.
+Atualmente procurando um emprego, confira meus projetos 😁
 
 
 Long story short:
