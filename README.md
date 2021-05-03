@@ -4,7 +4,8 @@
 
 
 
-Atualmente procurando um emprego, confira meus projetos 😁
+Atualmente procurando um job.
+Aqui você encontra meus projetos 😁
 
 
 Long story short:
