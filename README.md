@@ -4,7 +4,7 @@
 
 
 
-Atualmente procurando um emprego.
+Atualmente procurando um emprego como dev.
 
 
 Long story short:
