@@ -2,7 +2,6 @@
 
 ## Back-End Developer (JAVA, Spring)
 
-🔭 Currently working at Global, a British media company. I work with great people and we are using great technologies! 
 
 Long story short:
 
