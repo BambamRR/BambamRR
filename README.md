@@ -2,7 +2,7 @@
 
 ## Back-End Developer (JAVA, Spring)
 
-Apaixonado por Java☕😍
+Apaixonado por Java + Spring☕😍
 
 Atualmente procurando um job.
 
