@@ -4,7 +4,7 @@
 
 Apaixonado por Java + Spring☕😍
 
-Atualmente procurando um job.
+Desenvolvedor Jr na ustore
 
 Aqui você encontra meus projetos 😁
 
