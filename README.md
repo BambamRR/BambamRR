@@ -1,8 +1,8 @@
 
 
-## Back-End Developer (JAVA, Spring)
+## Fullstack Developer (Javascript, Angular, Nodejs, JAVA, Spring)
 
-Apaixonado por Java + Spring☕😍
+A
 
 Desenvolvedor Jr na ustore
 
