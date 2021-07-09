@@ -2,7 +2,7 @@
 
 ## Fullstack Developer (Javascript, Angular, Nodejs, JAVA, Spring)
 
-A
+
 
 Desenvolvedor Jr na ustore
 
