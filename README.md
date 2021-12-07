@@ -4,7 +4,7 @@
 
 
 
-Desenvolvedor Jr na ustore
+Desenvolvedor Jr 
 
 Aqui você encontra meus projetos 😁
 
