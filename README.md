@@ -19,7 +19,7 @@ Long story short:
 
 Fique a vontade para trocar uma ideia 💬
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![BambamRR GitHub stats](https://github-readme-stats.vercel.app/api?username=BambamRR&show_icons=true&theme=radical)
 
 
 
