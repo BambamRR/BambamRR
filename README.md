@@ -21,6 +21,12 @@ Fique a vontade para trocar uma ideia 💬
 
 ![BambamRR GitHub stats](https://github-readme-stats.vercel.app/api?username=BambamRR&show_icons=true&theme=radical)
 
+<div align="center">
+  <a href="https://github.com/BambamRR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BambamRR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BambamRR&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
   ![Snake animation](https://github.com/BambamRR/BambamRR/blob/output/github-contribution-grid-snake.svg)
 
 
