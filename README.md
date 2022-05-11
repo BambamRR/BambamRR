@@ -20,7 +20,7 @@ Long story short:
 Fique a vontade para trocar uma ideia 💬
 
 ![BambamRR GitHub stats](https://github-readme-stats.vercel.app/api?username=BambamRR&show_icons=true&theme=radical)
- ![Snake animation](https://github.com/BambamRR/BambamRR/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/BambamRR/BambamRR/blob/output/github-contribution-grid-snake.svg)
 
 
 
