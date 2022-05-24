@@ -35,7 +35,7 @@ Fique a vontade para trocar uma ideia 💬
   </div>
   
   
-  ![Snake animation](https://github.com/BambamRR/BambamRR/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
