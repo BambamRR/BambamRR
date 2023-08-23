@@ -1,6 +1,6 @@
 
 
-## Fullstack Developer (Javascript, Angular, Nodejs, JAVA, Spring)
+## Fullstack Developer (Javascript, Angular, Nodejs, Java, Spring)
 
 
 
